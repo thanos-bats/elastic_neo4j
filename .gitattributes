@@ -1,1 +1,5 @@
+neo4j-webTracker/neo4j/data/databases/neo4j/neostore.propertystore.db.strings filter=lfs diff=lfs merge=lfs -text
+neo4j-webTracker/neo4j/data/transactions/neo4j/neostore.transaction.db.0 filter=lfs diff=lfs merge=lfs -text
+neo4j-webTracker/neo4j/data/transactions/neo4j/neostore.transaction.db.1 filter=lfs diff=lfs merge=lfs -text
+*.db filter=lfs diff=lfs merge=lfs -text
 /** filter=lfs diff=lfs merge=lfs -text
